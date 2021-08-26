@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHuFp8NN1stizz4S+zzB9J0Yt7vcffhGAZFQP4hYDGO8gPZmVpQw04gS2//lbc4yqirZR/FFcaYGEQeFD9uC/w==",
+  "dgSpecHash": "2z2sGQ4YUW13Y/+zB4wh4fuPlVD0NuVh7dekFHYRD4t5le6AQ+z5l+Oee3I5yzWPrJizLSB/cZfYCp85T//3iQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+  "projectFilePath": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaAppVersion2\\PizzasListApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahmo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\mahmo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
