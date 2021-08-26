@@ -1,3 +1,3 @@
 # PizzasListApp 
-Trier vos listes de pizzass
+Trier votre liste de pizzass
 
