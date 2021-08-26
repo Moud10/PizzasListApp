@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj": {}
+    "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaAppVersion2\\PizzasListApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj": {
+    "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaAppVersion2\\PizzasListApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+        "projectUniqueName": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaAppVersion2\\PizzasListApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
         "projectName": "PizzaApp",
-        "projectPath": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+        "projectPath": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaAppVersion2\\PizzasListApp\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
         "packagesPath": "C:\\Users\\mahmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaApp\\PizzaApp\\PizzaApp\\obj\\",
+        "outputPath": "C:\\Users\\mahmo\\OneDrive\\Bureau\\PizzaAppVersion2\\PizzasListApp\\PizzaApp\\PizzaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
