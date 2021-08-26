@@ -1,2 +1,2 @@
 # PizzasListApp 
-Trier la liste des pizzass
+Trier la liste des pizzas
