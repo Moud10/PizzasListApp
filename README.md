@@ -1,3 +1,2 @@
 # PizzasListApp 
-Trier la liste des pizzas
-*ceci est branche listePizzas
+Trier la liste des pizzas par prix, noms et favories.
