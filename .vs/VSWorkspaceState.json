@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PizzaApp"
   ],
-  "SelectedNode": "\\PizzaApp.sln",
+  "SelectedNode": "\\PizzaApp\\PizzaApp.iOS",
   "PreviewInSolutionExplorer": false
 }
